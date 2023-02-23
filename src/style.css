@@ -44,7 +44,7 @@
   margin: 1em 0 0 0;
   line-height: 2em;
   letter-spacing: 2px;
-  padding: 0 16px 0em 16px;
+  padding: 0 16px 0 16px;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -55,7 +55,6 @@
 
 /* desktop version */
 @media all and (min-width: 768px) {
-
   /* banner */
   .banner h2 {
     font-size: 5em;
