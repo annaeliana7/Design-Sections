@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-
 <div align="center">
 
   <img src="assets-README/kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
@@ -39,30 +38,46 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 NAME OF PROJECT<a name="about-project"></a>
+# 📖 Design-Sections<a name="about-project"></a>
 
-**Name of Project** is a project ...complete sentence
+**Design-Sections** 
 
 <br>
+
+The Design-Section repository contains three different webpage sections that serve as inspiration for webpage features. Each section was created using HTML, CSS, JavaScript, Linters, Webpack, Visual Studio Code, and Github. For improved performance, the project uses Webpack to bundle and optimize front-end assets, including HTML, CSS, and JavaScript.
+
+The repository includes the following features:
+1. Simple yet Elegant Banner: This section features a simplified and elegant banner design that is highly visible and attention-grabbing.
+2. Headline Section: The Headline Section includes text and an image and has been enhanced with transitions and animations, creating a more dynamic and engaging experience for users on desktop devices. It is also mobile responsive, ensuring an optimal viewing experience across all devices.
+3. Services Info-Images Section: The Services Info-Images section features a horizontal list of cards displaying three at a time on the desktop version and one card on the mobile version, with additional images stacked vertically. Each card includes a "read more" section with a hovering feature. When the user clicks on the Title, a popup appears displaying additional text. The "read-more" Title includes an icon image that helps visualize the services or display the information in a visual description.
+
+<br>
+
 
 ## 🛠 Built With <a name="built-with"></a>
     HTML
     CSS
-    Javascript (ES6)
+    Javascript
     Webpack
     Linters
+    Visual Studio Code
+    Github
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Demo Image
 <br>
-<img align="center" src="assets-README/project_demo.png" alt="logo" width="100%"  height="auto" />
+<img align="center" src="assets-README/project_demo_1.png" alt="logo" width="100%"  height="auto" />
+
+<img align="center" src="assets-README/project_demo_2.png" alt="logo" width="100%"  height="auto" />
 
   <br/>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Name of Project](https://ADD LINK.git)
+[Design-Sections](https://annaeliana7.github.io/Design-Sections/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,9 +88,9 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/ADD LINK.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/Design-Sections.git`
 
-- Go to the repository folder using command prompt cd `NAME OF PROJECT`
+- Go to the repository folder using command prompt cd `Design-Sections`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -96,9 +111,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://ADD LINK.git
+- On the terminal run this command git clone https://github.com/annaeliana7/Design-Sections.git
 
-- Go to the repository folder using command prompt cd NAME-OF-FILE
+- Go to the repository folder using command prompt cd Design-Sections
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -107,6 +122,7 @@ Clone this repository to your desired folder:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Author -->
+
 
 👤 **Author**
 Anna Petras
@@ -130,7 +146,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://ADD LINK.git).
+Feel free to check the [issues page](https://github.com/annaeliana7/Design-Sections/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
