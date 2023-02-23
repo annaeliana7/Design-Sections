@@ -141,12 +141,11 @@
     font-size: 3rem;
     text-transform: uppercase;
     letter-spacing: 3px;
-    margin: 0 25px 0 0;
     grid-column: span 2;
   }
 
   .headline-content {
-    margin-left: 166px;
+    margin-left: 115px;
   }
 
   /* transition- increase font size and change color on hover */
