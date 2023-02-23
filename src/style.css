@@ -191,3 +191,108 @@
     transform: scale(1.05);
   }
 }
+
+/* ******* Services Section ******* */
+
+/* Additional Info- Title */
+.title-additional-info {
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  padding-top: 45px;
+}
+
+.title-additional-info h2 {
+  color: #333e3e;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  margin: 0;
+}
+
+/* Header- Border-Header */
+.border-header {
+  border: 3px solid #45d7d9;
+  width:66px;
+  margin-top: 15px;
+}
+
+/* Additional Info- Images */
+.image-info {
+  width: 80%;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  margin-top: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-items {
+  display: flex;
+}
+
+.image_item {
+  flex: 0 0 calc(100% / 3);
+  margin: 0 10px;
+  text-align: center;
+  margin-bottom: 7px;
+}
+
+.image_item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Info-Text Popup */
+.info_text {
+  position: absolute;
+  bottom: 0;
+  height: 150px;
+  width: 25%;
+  overflow: hidden;
+  padding: 28px 28px 28px 28px;
+  margin-right: 15px;
+  transition: ease-in all 0.5s;
+}
+
+.info_text img {
+  width: 25%;
+  height: 100%;
+  margin-right: 10px;
+  filter: invert(100%) sepia(4%) saturate(4226%) hue-rotate(269deg) brightness(111%) contrast(103%);
+}
+
+.info_text:hover {
+  cursor: pointer;
+  height: 366px;
+  transition: ease-in all 0.5s;
+  background-color: #45d7d97a;
+  margin-bottom: 7px;
+}
+
+.info_text h3 {
+  transition: ease-in all 0.5s;
+  color: #fff;
+  text-align: left;
+  display: block;
+  font-size: 28px;
+  font-weight: 500;
+  padding-bottom: 92px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.info_text p {
+  color: white;
+  font-size: 20px;
+  text-align: left;
+  line-height: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+}
