@@ -131,7 +131,6 @@
 
 /* desktop version */
 @media all and (min-width: 768px) {
-
   /* headline */
   #headline {
     display: grid;
@@ -142,7 +141,7 @@
     font-size: 3rem;
     text-transform: uppercase;
     letter-spacing: 3px;
-    margin: 0, 25, 0, 0;
+    margin: 0 25px 0 0;
     grid-column: span 2;
   }
 
