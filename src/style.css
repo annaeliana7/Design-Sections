@@ -216,7 +216,7 @@
 /* Header- Border-Header */
 .border-header {
   border: 3px solid #45d7d9;
-  width:66px;
+  width: 66px;
   margin-top: 15px;
 }
 
@@ -297,7 +297,6 @@
   font-weight: normal;
 }
 
-
 @media screen and (max-width: 768px) {
   /* Additional Info- Title */
   .title-additional-info span {
@@ -305,9 +304,9 @@
   }
 
   /* Additional Info- Images */
-.image-info {
-  width: 85%;
-}
+  .image-info {
+    width: 85%;
+  }
 
   .image-items {
     display: flex;
