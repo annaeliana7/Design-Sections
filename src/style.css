@@ -128,7 +128,6 @@
   object-fit: cover;
 }
 
-
 /* desktop version */
 @media all and (min-width: 768px) {
   /* headline */
